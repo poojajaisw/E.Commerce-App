@@ -1,0 +1,81 @@
+
+
+    /* NavBar CSS */
+
+.navbar-expand-lg{
+  background-color:black;
+  font-weight: bold;
+  
+}
+
+.nav-link{
+
+color: white;
+margin-left: 30%;
+font-size: 20px;
+font-weight: bold;
+justify-items: auto;
+list-style: none;
+}
+.nav-link:hover{
+color: blue;
+}
+
+.nav-link-mr-10px{
+color: white;
+margin-left: 49%;
+font-size: 20px;
+font-weight: bold;
+justify-items: auto;
+list-style: none;
+text-decoration: none;
+display: flex;
+margin-top: 6%;
+margin-left: 7%;
+}
+
+.navbar-toggler{
+background-color: white;
+}
+
+.navbar-toggler:hover{
+background-color: blue;
+color: aliceblue;
+}
+
+
+
+
+
+.CartUl {
+list-style: none;
+padding: 0;
+display: flex;
+flex-wrap: wrap;
+}
+
+
+.CartLi {
+width: 300px;
+margin: 10px;
+margin-left: 7%;
+padding: 15px;
+border: 1px solid #ccc;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the card image */
+.search-img {
+max-width: 100%;
+height: auto;
+border-radius: 4px;
+}
+
+
+.result {
+margin-top: 10px;
+font-size: 16px;
+}
+
+

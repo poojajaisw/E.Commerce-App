@@ -1,0 +1,54 @@
+.footer {
+    font-family:  sans-serif; 
+    font-size: 20px;
+    display: grid;
+    background-color: black;
+    gap: 20px; 
+    width: 100%; 
+    margin: 0 auto; 
+    bottom: 0;
+    
+    border: none;
+    list-style: none;
+    color: white;
+    
+
+  }
+  
+  
+
+
+               
+  
+.col-sm{
+             margin-left: 8%;
+             list-style: none;
+             font-weight: bold;
+             bottom: 0;
+             margin-bottom: 1%;
+}
+
+.list{
+    list-style: none;
+}
+
+.main-point:hover{
+              color: blue;
+              cursor: pointer;
+}
+
+.divider{
+    width: 100%;
+    padding: 1px;
+    background: white;
+    margin-top: 2%;
+}
+
+.Copyright{
+             text-align: center;
+}
+
+.Copyright:hover{
+    color: blue;
+    cursor: pointer;
+}
